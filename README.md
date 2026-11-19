@@ -2,6 +2,9 @@
 
 An interactive automata-theory learning app. Enter a Mealy machine with a transition table or draw it on a canvas, then inspect the converted Moore machine as a transition table and state diagram.
 
+
+## Website Link
+ https://pradhumnkoshta.github.io/mealy-moore-converter/
 ## Current features
 
 - Table and diagram views edit the same machine.
